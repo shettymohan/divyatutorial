@@ -1,9 +1,0 @@
-breakfast 
-lunch 
-dinner 
-
-
-
-water 
-softdrinks
-soda
